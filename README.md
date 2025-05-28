@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey, I'm Shouvik:
 👨‍💻I am a passionate Web developer<br>🏗️I love building software<br>🏫I am also a BTech Engineer<br><br>
 
 
