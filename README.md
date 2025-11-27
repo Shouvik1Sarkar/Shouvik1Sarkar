@@ -42,12 +42,6 @@ Backend authentication system with user registration, login, and JWT tokens.
 ---
 *Building production-ready projects. Live demos coming soon!*
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shouvik1Sarkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shouvik1Sarkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shouvik1Sarkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Shouvik1Sarkar&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
 
 
