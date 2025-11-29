@@ -12,6 +12,7 @@ A full-featured movie search app with bookmarking, pagination, and modal details
 - **Key Learning:** API integration, state management, localStorage persistence
 
 ### 🍳 Recipe Search App
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://your-deployed-link.com)
 Recipe discovery platform with advanced filtering, search, and favorites system.
 - **Tech:** JavaScript (ES6+), REST API, DOM Manipulation, Array Methods
 - **Key Learning:** Complex data handling, real-time filtering, UX patterns
