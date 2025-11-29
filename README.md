@@ -12,7 +12,7 @@ A full-featured movie search app with bookmarking, pagination, and modal details
 - **Key Learning:** API integration, state management, localStorage persistence
 
 ### 🍳 Recipe Search App
-👉 Live Demo: [Recipe Search App](https://your-deployed-link.com)
+👉 Live Demo: [Recipe Search App](https://heroic-piroshki-555647.netlify.app/)
 
 Recipe discovery platform with advanced filtering, search, and favorites system.
 - **Tech:** JavaScript (ES6+), REST API, DOM Manipulation, Array Methods
